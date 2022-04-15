@@ -2,3 +2,4 @@ Mathematics
 Science
 English
 Social
+Hindi
